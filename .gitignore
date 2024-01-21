@@ -1,0 +1,7 @@
+bin
+obj
+dist
+Thumbs.db
+.DS_Store
+*.swp
+*.sln
